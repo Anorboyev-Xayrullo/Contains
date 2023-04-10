@@ -1,0 +1,23 @@
+
+
+.active{
+    transform: translateX(-700px);
+    transition: 1s;
+}
+
+.list-group {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.list-group li{
+    color: aqua;
+    font-size: 25px;
+}
+.list-group li:hover{
+    color: chartreuse;
+}
+.btn{
+    margin-left: 50px;
+}
+
